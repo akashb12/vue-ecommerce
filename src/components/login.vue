@@ -101,10 +101,7 @@
 </div>
 <!--Modal: Login / Register Form-->
 
-<div class="text-center">
-  <a href="" class="btn btn-default btn-rounded my-3" data-toggle="modal" data-target="#modalLRForm">Launch
-    Modal LogIn/Register</a>
-</div>
+
 <!-- Modal -->
 
   </div>
