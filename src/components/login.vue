@@ -1,8 +1,6 @@
 <template>
   <div class="login">
-   <!-- Button trigger modal -->
-
-<!--Modal: Login / Register Form-->
+  
 <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog cascading-modal" role="document">
     <!--Content-->
@@ -42,7 +40,7 @@
                 <label data-error="wrong" data-success="right" for="modalLRInput11">Your password</label>
               </div>
               <div class="text-center mt-2">
-                <button class="btn btn-info">Log in <i class="fas fa-sign-in ml-1"></i></button>
+                <button class="btn btn-info">Log in <i class="fa fa-sign-in ml-1"></i></button>
               </div>
             </div>
             <!--Footer-->
@@ -81,7 +79,7 @@
               </div>
 
               <div class="text-center form-sm mt-2">
-                <button class="btn btn-info">Sign up <i class="fas fa-sign-in ml-1"></i></button>
+                <button class="btn btn-info">Sign up <i class="fa fa-sign-in ml-1"></i></button>
               </div>
 
             </div>
